@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+}
+
+header{
+padding:20px;
+}
+
+nav{
+padding:10px;
+}
+
+nav a{
+margin-right:10px;
+text-decoration:none;
+}
+
+main{
+padding:20px;
+}
+
+footer{
+text-align:center;
+padding:10px;
+}
